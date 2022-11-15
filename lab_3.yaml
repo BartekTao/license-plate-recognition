@@ -1,0 +1,6 @@
+path: ../datasets/coco128
+train: images/train
+val: images/train
+
+name:
+  0: plate
