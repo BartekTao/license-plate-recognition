@@ -2,5 +2,5 @@ path: ../datasets/coco128
 train: images/train
 val: images/train
 
-name:
+names:
   0: plate
